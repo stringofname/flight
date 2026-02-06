@@ -1,0 +1,10 @@
+release/book.o
+release/global.o
+release/inquiry.o
+release/main.o
+release/mainwindow.o
+release/zhuce.o
+release/moc_book.o
+release/moc_inquiry.o
+release/moc_mainwindow.o
+release/moc_zhuce.o

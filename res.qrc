@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>Imageres/view.png</file>
+        <file>Imageres/back.png</file>
+        <file>Imageres/BlueSky.jpg</file>
+        <file>Imageres/BlueSkyAri.jpg</file>
+        <file>Imageres/flight.png</file>
+        <file>Imageres/hide.png</file>
+        <file>Imageres/personal.png</file>
+        <file>Imageres/user (1).png</file>
+        <file>Imageres/user.png</file>
+        <file>Imageres/travel.png</file>
+        <file>Imageres/no-flight.png</file>
+        <file>Imageres/ticket-flight.png</file>
+        <file>Imageres/BackGround1.jpg</file>
+        <file>Imageres/BackGround2.jpg</file>
+        <file>Imageres/BackGround3.jpg</file>
+        <file>Imageres/BackGround4.jpg</file>
+        <file>Imageres/Booking.jpg</file>
+        <file>Imageres/Bookings.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Imageres/airBg.jpeg</file>
+        <file>Imageres/tari.png</file>
+    </qresource>
+</RCC>

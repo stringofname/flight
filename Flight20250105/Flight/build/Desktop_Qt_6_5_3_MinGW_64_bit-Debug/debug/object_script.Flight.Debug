@@ -1,0 +1,10 @@
+debug/book.o
+debug/global.o
+debug/inquiry.o
+debug/main.o
+debug/mainwindow.o
+debug/zhuce.o
+debug/moc_book.o
+debug/moc_inquiry.o
+debug/moc_mainwindow.o
+debug/moc_zhuce.o
